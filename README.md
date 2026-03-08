@@ -131,9 +131,6 @@ VITE_GOOGLE_CLIENT_ID=your_google_client_id
 
 📸 Screenshots
 
-(Add screenshots here after uploading images)
-
-Example:
 <img width="1470" height="956" alt="Screenshot 2026-03-09 at 2 14 21 AM" src="https://github.com/user-attachments/assets/6a918278-2fbe-46e5-90e2-488fde226115" />
 <img width="1470" height="956" alt="Screenshot 2026-03-09 at 2 14 16 AM" src="https://github.com/user-attachments/assets/3851d93b-83c4-47df-8536-33edef387c52" />
 <img width="1470" height="956" alt="Screenshot 2026-03-09 at 2 14 06 AM" src="https://github.com/user-attachments/assets/248d293f-0fc7-4c1e-a8e0-6d8a0801f015" />
@@ -144,3 +141,10 @@ Example:
 <img width="1470" height="956" alt="Screenshot 2026-03-09 at 2 13 05 AM" src="https://github.com/user-attachments/assets/47bfced0-15cf-4f3a-a7f7-1478d766373b" />
 <img width="1470" height="956" alt="Screenshot 2026-03-09 at 2 12 59 AM" src="https://github.com/user-attachments/assets/ee67c3a6-7454-4c71-871d-0547ba25918c" />
 <img width="1470" height="956" alt="Screenshot 2026-03-09 at 2 12 52 AM" src="https://github.com/user-attachments/assets/a95d179c-6023-48c7-923a-8b3831b4d0d0" />
+
+👨‍💻 Author
+
+Nilaksh
+
+Engineering Student | Full Stack Developer
+:::
